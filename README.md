@@ -1,6 +1,4 @@
-# MadhuTest
-Test
-<h1 align="center">Hey 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey 👋, I'm Madhuvishnu Vemula</h1>
 <h3 align="center">Data Enthusiast | Software Engineer | Problem Solver</h3>
 
 <p align="center">
@@ -14,8 +12,8 @@ Test
 - 👯 I’m looking to transition into a **Data Engineering role** and build impactful data-driven systems
 - 💬 Ask me about **automation, data pipelines, or AI-assisted coding tools**
 - 🚀 Fun Fact: I’ve built tools used by 10+ teams to automate test code generation with AI
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
-- ⚡ Goal for 2025: Solve **6+ hard DS & Algo problems** and build a **KPI tracking API for AI-generated code**
+- 📫 How to reach me: **[madhuvishnuvemula@gmail.com](mailto:madhuvishnuvemula@gmail.com)**
+
 
 ---
 
@@ -33,18 +31,9 @@ Test
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/madhuvishnu-vemula/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
+  <a href="mailto:madhuvishnuvemula@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
